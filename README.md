@@ -3,8 +3,8 @@
 ## Config jsp
 
 ```properties
-spring.mvc.view.prefix=/WEB-INF/view/
-spring.mvc.view.suffix=.jsp
+spring.mvc.view.prefix: /WEB-INF/view/
+spring.mvc.view.suffix: .jsp
 ```
 ## Hibernate
 
