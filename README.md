@@ -106,7 +106,7 @@ spring.mvc.view.suffix: .jsp
 <dependency>
     <groupId>com.google.code.gson</groupId>
     <artifactId>gson</artifactId>
-    <version>2.11.0</version>
+    <version>2.12.1</version>
 </dependency>
 ```
 
